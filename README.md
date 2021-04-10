@@ -33,11 +33,11 @@
 <h3> Technologies </h3>
   
 - &nbsp;
-  ![Android](https://img.shields.io/badge/-Android-3282b8?style=for-the-badge&logo=android&labelColor=3DDC84)
+  ![Android](https://img.shields.io/badge/-Android-3282b8?style=for-the-badge&logo=android&labelColor=181717)
   ![Flutter](https://img.shields.io/badge/-Flutter-3282b8?style=for-the-badge&logo=flutter&labelColor=02569B)
-  ![Firebase](https://img.shields.io/badge/-Flutter-3282b8?style=for-the-badge&logo=firebase&labelColor=FFCA28)
-  ![MySql](https://img.shields.io/badge/-MySql-3282b8?style=for-the-badge&logo=sqllite&labelColor=003B57)
-  ![Git](https://img.shields.io/badge/-Git-3282b8?style=for-the-badge&logo=git&labelColor=F05032)
+  ![Firebase](https://img.shields.io/badge/-Flutter-3282b8?style=for-the-badge&logo=firebase&labelColor=181717)
+  ![MySql](https://img.shields.io/badge/-MySql-3282b8?style=for-the-badge&logo=sqlite&labelColor=181717)
+  ![Git](https://img.shields.io/badge/-Git-3282b8?style=for-the-badge&logo=git&labelColor=181717)
   ![GitHub](https://img.shields.io/badge/-GitHub-3282b8?style=for-the-badge&logo=github&labelColor=181717)
  
 
