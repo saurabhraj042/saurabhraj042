@@ -22,5 +22,25 @@
 - 📫 How to reach me: **Just use any of the platforms above**
 
 
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 💻 &nbsp;
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-3282b8?style=for-the-badge&logo=kotlin?labelColor=1b262c)
+  ![C++](https://img.shields.io/badge/-C++-3282b8?style=for-the-badge&logo=c++?labelColor=1b262c)
+- 🖥 &nbsp;
+  ![Android Development](https://img.shields.io/badge/-Android-3282b8?style=for-the-badge&logo=android?labelColor=1b262c)
+  ![Flutter Development](https://img.shields.io/badge/-Flutter-3282b8?style=for-the-badge&logo=flutter?labelColor=1b262c)
+ 
+- 🛢 &nbsp;
+  ![MySql](https://img.shields.io/badge/-MySql-3282b8?style=for-the-badge&logo=sqllite?labelColor=1b262c)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-3282b8?style=for-the-badge&logo=git?labelColor=1b262c)
+  ![GitHub](https://img.shields.io/badge/-GitHub-3282b8?style=for-the-badge&logo=github?labelColor=1b262c)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-3282b8?style=for-the-badge&logo=visual-studio-code?labelColor=1b262c)
+ 
+
+
+
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=saurabhraj042&show_icons=true)
