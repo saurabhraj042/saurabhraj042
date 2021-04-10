@@ -37,7 +37,7 @@
   ![Flutter](https://img.shields.io/badge/-Flutter-3282b8?style=for-the-badge&logo=flutter&labelColor=02569B)
   ![Firebase](https://img.shields.io/badge/-Firebase-3282b8?style=for-the-badge&logo=firebase&labelColor=f58634)
   ![MySql](https://img.shields.io/badge/-MySql-3282b8?style=for-the-badge&logo=sqlite&labelColor=003B57)
-  ![Git](https://img.shields.io/badge/-Git-3282b8?style=for-the-badge&logo=git&labelColor=FF0000)
+  ![Git](https://img.shields.io/badge/-Git-3282b8?style=for-the-badge&logo=git&labelColor=F28D1A)
   ![GitHub](https://img.shields.io/badge/-GitHub-3282b8?style=for-the-badge&logo=github&labelColor=181717)
  
 
