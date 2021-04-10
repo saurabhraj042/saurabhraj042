@@ -26,7 +26,7 @@
 
 - &nbsp;
   ![Kotlin](https://img.shields.io/badge/-Kotlin-3282b8?style=for-the-badge&logo=kotlin&labelColor=bbe1fa)
-  ![C++](https://img.shields.io/badge/-C++-3282b8?style=for-the-badge&logo=c++&labelColor=bbe1fa)
+  ![C++](https://img.shields.io/badge/-C++-3282b8?style=for-the-badge&logo=c&labelColor=bbe1fa)
   
 - 🖥 &nbsp;
   ![Android Development](https://img.shields.io/badge/-Android-3282b8?style=for-the-badge&logo=android&labelColor=1b262c)
