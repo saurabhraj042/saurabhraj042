@@ -26,7 +26,7 @@
 <h3> Languages </h3>
 
 - &nbsp;
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-3282b8?style=for-the-badge&logo=kotlin&labelColor=0095D5)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-3282b8?style=for-the-badge&logo=kotlin&labelColor=2d132c)
   ![C++](https://img.shields.io/badge/-C++-3282b8?style=for-the-badge&logo=c&labelColor=A8B9CC)
   ![Dart](https://img.shields.io/badge/-Dart-3282b8?style=for-the-badge&logo=dart&labelColor=0175C2)
   
