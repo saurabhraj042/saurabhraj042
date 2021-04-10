@@ -25,7 +25,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-3282b8?style=for-the-badge&logo=kotlin?labelColor=1b262c)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-3282b8?style=for-the-badge&logo=kotlin&labelColor=1b262c)
   ![C++](https://img.shields.io/badge/-C++-3282b8?style=for-the-badge&logo=C++?labelColor=1b262c)
 - 🖥 &nbsp;
   ![Android Development](https://img.shields.io/badge/-Android-3282b8?style=for-the-badge&logo=android?labelColor=1b262c)
