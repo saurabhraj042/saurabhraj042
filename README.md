@@ -24,10 +24,8 @@
 
 
 <h3> Languages </h3>
-
-- &nbsp;
   ![Kotlin](https://img.shields.io/badge/-Kotlin-3282b8?style=for-the-badge&logo=kotlin&labelColor=ffffff)
-  ![C++](https://img.shields.io/badge/-C++-3282b8?style=for-the-badge&logo=c&labelColor=A8B9CC)
+  ![C++](https://img.shields.io/badge/-C++-3282b8?style=for-the-badge&logo=c&labelColor=bbe1fa)
   ![Dart](https://img.shields.io/badge/-Dart-3282b8?style=for-the-badge&logo=dart&labelColor=0175C2)
   
 <h3> Technologies </h3>
