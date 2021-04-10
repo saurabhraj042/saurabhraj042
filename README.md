@@ -42,3 +42,4 @@
  
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=saurabhraj042&show_icons=true)
+![Some stats](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=saurabhraj042&layout=compact)
