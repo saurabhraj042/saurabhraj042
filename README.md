@@ -22,11 +22,9 @@
 - 📫 How to reach me: **Just use any of the platforms above**
 
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-3282b8?style=for-the-badge&logo=kotlin&labelColor=1b262c)
-  ![C++](https://img.shields.io/badge/-C++-3282b8?style=for-the-badge&logo=c++&labelColor=1b262c)
+<h3> Languages </h3>
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-3282b8?style=for-the-badge&logo=kotlin&labelColor=bbe1fa)
+  ![C++](https://img.shields.io/badge/-C++-3282b8?style=for-the-badge&logo=C++&labelColor=bbe1fa)
 - 🖥 &nbsp;
   ![Android Development](https://img.shields.io/badge/-Android-3282b8?style=for-the-badge&logo=android&labelColor=1b262c)
   ![Flutter Development](https://img.shields.io/badge/-Flutter-3282b8?style=for-the-badge&logo=flutter&labelColor=1b262c)
